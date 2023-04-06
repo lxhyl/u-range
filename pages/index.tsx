@@ -1,4 +1,4 @@
-import { WaitList } from '@/components/waitList'
+import { WaitList } from '@/components/WaitList'
 import Head from 'next/head'
 
 export default function Home() {
